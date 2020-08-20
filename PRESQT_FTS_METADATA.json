@@ -2,6 +2,26 @@
     "allKeywords": [],
     "actions": [
         {
+            "id": "159bd455-5234-4c03-8505-b93f81a7813e",
+            "details": "PresQT Transfer from GitHub to OSF",
+            "actionDateTime": "2020-08-20 14:44:07.840176+00:00",
+            "actionType": "transfer_enhancement",
+            "sourceTargetName": "github",
+            "sourceUsername": "presqt-test-user",
+            "destinationTargetName": "github",
+            "destinationUsername": "presqt-test-user",
+            "keywords": {
+                "sourceKeywordsAdded": [],
+                "sourceKeywordsEnhanced": [],
+                "enhancer": "scigraph"
+            },
+            "files": {
+                "created": [],
+                "updated": [],
+                "ignored": []
+            }
+        },
+        {
             "id": "4b0f7112-c1fe-47a5-88b7-61b166b0952f",
             "details": "PresQT Transfer from GitHub to OSF",
             "actionDateTime": "2020-08-20 14:39:33.143031+00:00",
